@@ -1,0 +1,22 @@
+{
+"product":[{"id":1,"name":"Lizard, goanna","category":"Puce"},
+{"id":2,"name":"Eastern grey kangaroo","category":"Turquoise"},
+{"id":3,"name":"Woylie","category":"Violet"},
+{"id":4,"name":"Common brushtail possum","category":"Orange"},
+{"id":5,"name":"Squirrel, palm","category":"Violet"},
+{"id":6,"name":"Otter, oriental short-clawed","category":"Yellow"},
+{"id":7,"name":"South American meadowlark (unidentified)","category":"Pink"},
+{"id":8,"name":"Savanna fox","category":"Turquoise"},
+{"id":9,"name":"Urial","category":"Maroon"},
+{"id":10,"name":"Fox, grey","category":"Teal"},
+{"id":11,"name":"Black-fronted bulbul","category":"Maroon"},
+{"id":12,"name":"River wallaby","category":"Green"},
+{"id":13,"name":"Australian magpie","category":"Orange"},
+{"id":14,"name":"Toddy cat","category":"Pink"},
+{"id":15,"name":"Dragonfly, russian","category":"Pink"},
+{"id":16,"name":"Civet cat","category":"Blue"},
+{"id":17,"name":"Squirrel, grey-footed","category":"Teal"},
+{"id":18,"name":"Striated heron","category":"Crimson"},
+{"id":19,"name":"Yellow-headed caracara","category":"Red"},
+{"id":20,"name":"Greater flamingo","category":"Indigo"}]
+}
